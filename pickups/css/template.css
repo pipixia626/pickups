@@ -23,8 +23,12 @@
 /* logo begin*/
 
 .logo {
-    height: 200px;
+    height: 100px;
     background-color: slateblue;
+}
+
+.logo .logo_c {
+    height: 100px;
 }
 
 
