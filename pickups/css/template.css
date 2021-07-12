@@ -1,0 +1,31 @@
+.center {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+
+/* top begin*/
+
+.top {
+    height: 50px;
+    background-color: aquamarine;
+}
+
+.top .top_c {
+    height: 50px;
+    background-color: black;
+}
+
+
+/* top end*/
+
+
+/* logo begin*/
+
+.logo {
+    height: 200px;
+    background-color: slateblue;
+}
+
+
+/* logo end*/
